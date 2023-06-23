@@ -113,3 +113,32 @@ h2 {
     font-weight: bolder;
     color: #1f2937;
 }
+
+.quotes {
+    height: 350px;
+    background-color: #e5e7eb;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+.quote {
+    width: 800px;
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    color: #1f2937;
+}
+
+.author {
+    font-size: 24px;
+    font-weight: bolder;
+    color: #171f2a;
+    align-self: flex-end;
+}
+
