@@ -142,3 +142,35 @@ h2 {
     align-self: flex-end;
 }
 
+.signup {
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.banner {
+    background-color: #3882f6;
+    font-size: 24px;
+    color: #f9faf8;
+    width: 750px;
+    height: 150px;
+    padding: 0 150px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 15px;
+}
+
+.banner p {
+    font-size: 18px;
+    color: #e5e7eb;
+    margin-top: 8px;
+}
+
+.banner button {
+    border: solid #f9faf8 2px;
+    border-radius: 10px;
+
+}
+
