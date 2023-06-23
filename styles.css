@@ -171,6 +171,17 @@ h2 {
 .banner button {
     border: solid #f9faf8 2px;
     border-radius: 10px;
+}
 
+footer p {
+    color: #e5e7eb;
+}
+
+footer {
+    background-color: #1f2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 35px;
 }
 
